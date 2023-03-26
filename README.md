@@ -7,4 +7,6 @@
 
 ## 筆記檔案
 -   0313作業一  [PDF](https://drive.google.com/file/d/1Zjp7Z8Bv_b3g5I1v1Is5pol2w6L53ZLm/view?usp=sharing)
-_   0327作業二  [PDF](https://drive.google.com/file/d/19zzFdxwH-2XmVyQvxkB1RAY3Uq8Uwz_M/view?usp=sharing)
+
+
+-   0327作業二  [PDF](https://drive.google.com/file/d/19zzFdxwH-2XmVyQvxkB1RAY3Uq8Uwz_M/view?usp=sharing)
